@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-08-04T12:53:54" hostname="DESKTOP-L69KDPD" time="0.024">
+  <properties/>
+  <testcase name="Testfile()" classname="Test" time="0.021"/>
+  <testcase name="Testcatalog()" classname="Test" time="0.002"/>
+  <system-out><![CDATA[Running Test
+Test complete: 39605300
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
